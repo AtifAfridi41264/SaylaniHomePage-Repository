@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#forLogo{
+    margin-top: 15px;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+button{
+    border-style: none;
+}
+
+ a:hover{
+    color: chartreuse;
+ }
+
+ select{
+    height: 40px;
+    width: 100%;
+    text-align:left;
+    color: gray;
+    border-color: chartreuse;
+    border-radius: 5px;
+    
+ }
+
+ input{
+    height: 40px;
+    width: 100%;
+    border: 1px solid;
+    border-color: chartreuse;
+    border-radius: 5px;
+    text-align: left;
+ }
+
+ label{
+    color: blue;
+    margin-bottom: 10px;
+    margin-top: 10px;
+ }
+
+ #forFile{
+    border: 1px;
+    border-style: solid;
+    height:150px;
+    width: 150px;
+    border-radius: 5px;
+    
+ }
+
+ #forSubmit{
+    height: 40px;
+    width: 100%;
+    border: 1px solid;
+    /* border-style: solid; */
+   background-color: blue;
+   color: white;
+   border-radius: 5px;
+ }
+
+ 
